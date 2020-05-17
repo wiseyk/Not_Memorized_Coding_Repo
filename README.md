@@ -2,4 +2,5 @@
 Memorize Syntax, Not the Code. (P.S. Google Syntax)
 
 
-Fibonacci _Recursion.c : Fibonacci Series: Print n terms \ Get nth term
+Fibonacci _Recursion.c
+Fibonacci Series: Print n terms or Get nth term
