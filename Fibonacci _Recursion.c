@@ -9,6 +9,7 @@ int fibo(int no, int a, int b)
     }
     else
     {   
+	// printf("\nCalling fibo(no = %d, a = %d, b = %d)",no-1, a+b, a );
         printf("%d,  ", a+b);
         return (fibo(no-1, a+b, a));
     }
